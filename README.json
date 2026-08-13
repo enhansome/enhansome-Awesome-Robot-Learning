@@ -1,0 +1,520 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Paper"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Surveys"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Active Researchers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Omniverse Isaac Orbit",
+          "description": "Based on Issac Sim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:51:58Z",
+            "owner": "isaac-sim",
+            "repo": "IsaacLab",
+            "stars": 7887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniGibson",
+          "description": "a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:49:50Z",
+            "owner": "StanfordVL",
+            "repo": "BEHAVIOR-1K",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unitree_mujoco",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-08T07:33:52Z",
+            "owner": "unitreerobotics",
+            "repo": "unitree_mujoco",
+            "stars": 1128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unitree Go2 Omniverse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-01T14:18:03Z",
+            "owner": "abizovnuralem",
+            "repo": "go2_omniverse",
+            "stars": 1058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-06-06T20:11:32Z",
+            "owner": "isaac-sim",
+            "repo": "OmniIsaacGymEnvs",
+            "stars": 1047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARNOLD",
+          "description": "A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-16T18:21:08Z",
+            "owner": "arnold-benchmark",
+            "repo": "arnold",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Isaac-ManipulaRL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-14T03:05:22Z",
+            "owner": "cypypccpy",
+            "repo": "Isaac-ManipulaRL",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Issac-based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dm_control: DeepMind Infrastructure for Physics-Based Simulation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T00:15:16Z",
+            "owner": "google-deepmind",
+            "repo": "dm_control",
+            "stars": 4664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mujoco_menagerie: High-quality models for MuJoCo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T19:35:18Z",
+            "owner": "google-deepmind",
+            "repo": "mujoco_menagerie",
+            "stars": 3813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
+          "description": "Based on robosuite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:44:23Z",
+            "owner": "robocasa",
+            "repo": "robocasa",
+            "stars": 1640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gymnasium-Robotics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T17:38:14Z",
+            "owner": "Farama-Foundation",
+            "repo": "Gymnasium-Robotics",
+            "stars": 954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboHive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:20:07Z",
+            "owner": "vikashplus",
+            "repo": "robohive",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dm_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-20T14:29:49Z",
+            "owner": "google-deepmind",
+            "repo": "dm_robotics",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoorGym",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-28T12:18:24Z",
+            "owner": "PSVL",
+            "repo": "DoorGym",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Divide-and-Conquer Reinforcement Learning",
+          "description": "Catching and Lobbing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-08T02:43:13Z",
+            "owner": "dibyaghosh",
+            "repo": "dnc",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "so101-nexus",
+          "description": "Full-stack robot learning for the SO-101 arm (teleoperation, imitation learning, RL) in MuJoCo, with a GPU-parallel NVIDIA Warp backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:10:12Z",
+            "owner": "johnsutor",
+            "repo": "so101-nexus",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DMControl Generalization Benchmark 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-21T03:04:28Z",
+            "owner": "aalmuzairee",
+            "repo": "dmcgb2",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "MuJoCo-based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ManiSkill3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T16:38:18Z",
+            "owner": "mani-skill",
+            "repo": "ManiSkill",
+            "stars": 3220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups",
+          "description": "Currently based on ManiSkill2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-20T13:08:29Z",
+            "owner": "simpler-env",
+            "repo": "SimplerEnv",
+            "stars": 1140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActionShift",
+          "description": "Benchmark hiding the action-interface contract (permutation/sign/scale/delta-abs/frame/lag/gripper) from a frozen ManiSkill3 policy, with preregistered splits, a privileged oracle, and promotion gates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T01:10:07Z",
+            "owner": "Archerkattri",
+            "repo": "actionshift",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "SAPIEN-based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyBullet Gymperium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-16T08:35:41Z",
+            "owner": "benelot",
+            "repo": "pybullet-gym",
+            "stars": 882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panda-gym: Set of robotic environments based on PyBullet physics engine and gymnasium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T07:27:41Z",
+            "owner": "qgallouedec",
+            "repo": "panda-gym",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toolkit for Vision-Guided Quadrupedal Locomotion Research",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-27T08:46:42Z",
+            "owner": "Mehooz",
+            "repo": "vision4leg",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pybullet-implementation of the multi-goal robotics environment originally from Open AI Gym",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-18T13:13:58Z",
+            "owner": "IanYangChina",
+            "repo": "pybullet_multigoal_gym",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniTouch benchmark",
+          "description": "It allows evaluation of models' performance on different manipulation tasks that can leverage cross-modal learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-05T19:28:33Z",
+            "owner": "ServiceNow",
+            "repo": "MiniTouch",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "PyBullet-based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Genesis",
+          "description": "A generative and simulated physical realm for general-purpose embodied-AI learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:09:16Z",
+            "owner": "Genesis-Embodied-AI",
+            "repo": "genesis-world",
+            "stars": 29740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeRobot: State-of-the-art Machine Learning for real-world robotics",
+          "description": "From HuggingFace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:19:54Z",
+            "owner": "huggingface",
+            "repo": "lerobot",
+            "stars": 26616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-18T04:32:50Z",
+            "owner": "carlosferrazza",
+            "repo": "humanoid-bench",
+            "stars": 783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoftGym",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-14T16:33:06Z",
+            "owner": "Xingyu-Lin",
+            "repo": "softgym",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIMA-Bench: Benchmark for Multimodal Robot Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-26T05:35:36Z",
+            "owner": "vimalabs",
+            "repo": "VIMABench",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colosseum: A Benchmark for Evaluating Generalization for Robotic Manipulation",
+          "description": "Based on RLBench",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-03T03:21:23Z",
+            "owner": "robot-colosseum",
+            "repo": "robot-colosseum",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thrower and Goalie Robot Arms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-15T21:15:57Z",
+            "owner": "muddasser-mm",
+            "repo": "Thrower_Goalie_RobotArms",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "This repository is released under the MIT license.",
+      "items": [],
+      "title": ":books: License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:01.060Z",
+    "original_repository": "RayYoh/Awesome-Robot-Learning",
+    "original_repository_sha": "322a0217e947aef06a1a65bb624019a3a2c8167e",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Robot-Learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Robot-Learning with stars"
+  }
+}
