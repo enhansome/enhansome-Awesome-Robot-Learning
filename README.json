@@ -36,10 +36,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:51:58Z",
+            "last_commit": "2026-08-13T18:14:11Z",
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 7887
+            "stars": 7893
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-10T19:49:50Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1631
+            "stars": 1634
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-06-08T07:33:52Z",
             "owner": "unitreerobotics",
             "repo": "unitree_mujoco",
-            "stars": 1128
+            "stars": 1130
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-06T00:15:16Z",
             "owner": "google-deepmind",
             "repo": "dm_control",
-            "stars": 4664
+            "stars": 4667
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-09T19:35:18Z",
             "owner": "google-deepmind",
             "repo": "mujoco_menagerie",
-            "stars": 3813
+            "stars": 3816
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-07T17:44:23Z",
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1640
+            "stars": 1644
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-13T00:20:07Z",
             "owner": "vikashplus",
             "repo": "robohive",
-            "stars": 631
+            "stars": 630
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2025-12-20T13:08:29Z",
             "owner": "simpler-env",
             "repo": "SimplerEnv",
-            "stars": 1140
+            "stars": 1139
           }
         },
         {
@@ -410,10 +410,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:09:16Z",
+            "last_commit": "2026-08-13T19:53:52Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29740
+            "stars": 29738
           }
         },
         {
@@ -424,10 +424,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:19:54Z",
+            "last_commit": "2026-08-13T18:27:33Z",
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 26616
+            "stars": 26632
           }
         },
         {
@@ -469,7 +469,7 @@
             "last_commit": "2023-09-26T05:35:36Z",
             "owner": "vimalabs",
             "repo": "VIMABench",
-            "stars": 327
+            "stars": 326
           }
         },
         {
@@ -510,7 +510,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:30:01.060Z",
+    "last_updated": "2026-08-13T20:25:04.629Z",
     "original_repository": "RayYoh/Awesome-Robot-Learning",
     "original_repository_sha": "322a0217e947aef06a1a65bb624019a3a2c8167e",
     "enhanced_repository": "enhansome/enhansome-Awesome-Robot-Learning",
