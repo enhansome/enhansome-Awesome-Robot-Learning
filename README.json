@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 567038244,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:17:39Z",
+                "last_commit": "2026-08-21T19:53:12Z",
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 7923
+                "stars": 7930
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 439439857,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:38:07Z",
+                "last_commit": "2026-08-20T23:55:41Z",
                 "owner": "StanfordVL",
                 "repo": "BEHAVIOR-1K",
-                "stars": 1643
+                "stars": 1645
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-08T07:33:52Z",
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1141
+                "stars": 1144
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-09T19:35:18Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3847
+                "stars": 3850
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-07T17:44:23Z",
                 "owner": "robocasa",
                 "repo": "robocasa",
-                "stars": 1660
+                "stars": 1662
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-02T17:38:14Z",
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium-Robotics",
-                "stars": 958
+                "stars": 959
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-04T16:38:18Z",
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3244
+                "stars": 3251
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2025-12-20T13:08:29Z",
                 "owner": "simpler-env",
                 "repo": "SimplerEnv",
-                "stars": 1143
+                "stars": 1145
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2024-07-23T07:27:41Z",
                 "owner": "qgallouedec",
                 "repo": "panda-gym",
-                "stars": 766
+                "stars": 764
               }
             },
             {
@@ -417,10 +417,10 @@
                 "archived": false,
                 "id": 712225112,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:20:00Z",
+                "last_commit": "2026-08-21T19:42:23Z",
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 29781
+                "stars": 29788
               }
             },
             {
@@ -432,10 +432,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:02:08Z",
+                "last_commit": "2026-08-21T19:38:42Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26784
+                "stars": 26807
               }
             },
             {
@@ -465,7 +465,7 @@
                 "last_commit": "2022-11-14T16:33:06Z",
                 "owner": "Xingyu-Lin",
                 "repo": "softgym",
-                "stars": 354
+                "stars": 353
               }
             },
             {
@@ -523,7 +523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:13:00.406Z",
+    "last_updated": "2026-08-21T20:09:00.949Z",
     "original_repository": "RayYoh/Awesome-Robot-Learning",
     "original_repository_id": 627284684,
     "original_repository_sha": "41eb274a2391a36eeeac7db32ea75b452c3d6908",
