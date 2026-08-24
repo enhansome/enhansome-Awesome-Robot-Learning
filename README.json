@@ -7,6 +7,205 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI",
+              "description": "arXiv 2024 Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811638645,
+                "language": null,
+                "last_commit": "2026-06-10T02:53:35Z",
+                "owner": "HCPLab-SYSU",
+                "repo": "Embodied_AI_Paper_List",
+                "stars": 2152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Survey of Embodied Learning for Object-Centric Robotic Manipulation",
+              "description": "arXiv 2024 Project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 833995205,
+                "language": null,
+                "last_commit": "2024-10-04T01:04:58Z",
+                "owner": "RayYoh",
+                "repo": "OCRM_survey",
+                "stars": 257
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Surveys"
+        }
+      ],
+      "title": "Related Paper"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics (Kiloreux)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46938122,
+            "language": null,
+            "last_commit": "2024-09-22T20:24:10Z",
+            "owner": "kiloreux",
+            "repo": "awesome-robotics",
+            "stars": 6978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics (ahundt)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91040492,
+            "language": null,
+            "last_commit": "2024-01-10T07:45:21Z",
+            "owner": "ahundt",
+            "repo": "awesome-robotics",
+            "stars": 1478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotic Tooling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217333025,
+            "language": null,
+            "last_commit": "2023-11-20T07:13:29Z",
+            "owner": "Ly0n",
+            "repo": "awesome-robotic-tooling",
+            "stars": 3883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robotics Libraries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56404753,
+            "language": "Python",
+            "last_commit": "2026-08-06T23:31:04Z",
+            "owner": "jslee02",
+            "repo": "awesome-robotics-libraries",
+            "stars": 3025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Reinforcement Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40465212,
+            "language": null,
+            "last_commit": "2023-05-25T22:25:44Z",
+            "owner": "aikorea",
+            "repo": "awesome-rl",
+            "stars": 9918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Robot Descriptions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 478093237,
+            "language": null,
+            "last_commit": "2026-08-04T09:53:46Z",
+            "owner": "robot-descriptions",
+            "repo": "awesome-robot-descriptions",
+            "stars": 1638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome NVIDIA Isaac Gym",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 393542631,
+            "language": "Python",
+            "last_commit": "2026-07-28T09:50:00Z",
+            "owner": "robotlearning123",
+            "repo": "awesome-isaac-gym",
+            "stars": 793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome RL Envs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224122584,
+            "language": null,
+            "last_commit": "2024-05-27T23:01:07Z",
+            "owner": "clvrai",
+            "repo": "awesome-rl-envs",
+            "stars": 1357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Robotics-3D",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 841572588,
+            "language": null,
+            "last_commit": "2025-12-17T07:19:01Z",
+            "owner": "zubair-irshad",
+            "repo": "Awesome-Robotics-3D",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Video-Robotic-Papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 816639481,
+            "language": null,
+            "last_commit": "2025-01-30T04:26:05Z",
+            "owner": "H-Freax",
+            "repo": "Awesome-Video-Robotic-Papers",
+            "stars": 193
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Omniverse Isaac Orbit",
               "description": "Based on Issac Sim.",
               "children": [],
@@ -14,10 +213,10 @@
                 "archived": false,
                 "id": 567038244,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:08:21Z",
+                "last_commit": "2026-08-24T08:45:53Z",
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 7941
+                "stars": 7947
               }
             },
             {
@@ -29,10 +228,10 @@
                 "archived": false,
                 "id": 439439857,
                 "language": "Python",
-                "last_commit": "2026-08-20T23:55:41Z",
+                "last_commit": "2026-08-24T06:21:47Z",
                 "owner": "StanfordVL",
                 "repo": "BEHAVIOR-1K",
-                "stars": 1649
+                "stars": 1650
               }
             },
             {
@@ -47,7 +246,7 @@
                 "last_commit": "2026-06-08T07:33:52Z",
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1145
+                "stars": 1147
               }
             },
             {
@@ -144,7 +343,7 @@
                 "last_commit": "2026-08-09T19:35:18Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3857
+                "stars": 3861
               }
             },
             {
@@ -159,7 +358,7 @@
                 "last_commit": "2026-08-21T20:45:34Z",
                 "owner": "robocasa",
                 "repo": "robocasa",
-                "stars": 1665
+                "stars": 1667
               }
             },
             {
@@ -174,7 +373,7 @@
                 "last_commit": "2026-08-02T17:38:14Z",
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium-Robotics",
-                "stars": 959
+                "stars": 960
               }
             },
             {
@@ -286,7 +485,7 @@
                 "last_commit": "2026-08-04T16:38:18Z",
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3254
+                "stars": 3256
               }
             },
             {
@@ -301,7 +500,7 @@
                 "last_commit": "2025-12-20T13:08:29Z",
                 "owner": "simpler-env",
                 "repo": "SimplerEnv",
-                "stars": 1145
+                "stars": 1146
               }
             },
             {
@@ -420,7 +619,7 @@
                 "last_commit": "2026-08-23T09:22:18Z",
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 29794
+                "stars": 29792
               }
             },
             {
@@ -432,10 +631,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-23T19:20:09Z",
+                "last_commit": "2026-08-24T09:58:23Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26849
+                "stars": 26871
               }
             },
             {
@@ -523,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:01:03.824Z",
+    "last_updated": "2026-08-24T14:31:07.116Z",
     "original_repository": "RayYoh/Awesome-Robot-Learning",
     "original_repository_id": 627284684,
     "original_repository_sha": "41eb274a2391a36eeeac7db32ea75b452c3d6908",
