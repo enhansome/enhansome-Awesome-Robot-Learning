@@ -58,7 +58,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6982
+            "stars": 6983
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-08-25T20:20:58Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3026
+            "stars": 3027
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2023-05-25T22:25:44Z",
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9920
+            "stars": 9922
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-08-04T09:53:46Z",
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1641
+            "stars": 1642
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2024-05-27T23:01:07Z",
             "owner": "clvrai",
             "repo": "awesome-rl-envs",
-            "stars": 1357
+            "stars": 1358
           }
         },
         {
@@ -213,10 +213,10 @@
                 "archived": false,
                 "id": 567038244,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:07:43Z",
+                "last_commit": "2026-08-27T11:24:58Z",
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 7966
+                "stars": 7970
               }
             },
             {
@@ -228,7 +228,7 @@
                 "archived": false,
                 "id": 439439857,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:46:45Z",
+                "last_commit": "2026-08-27T02:55:08Z",
                 "owner": "StanfordVL",
                 "repo": "BEHAVIOR-1K",
                 "stars": 1660
@@ -343,7 +343,7 @@
                 "last_commit": "2026-08-09T19:35:18Z",
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3874
+                "stars": 3877
               }
             },
             {
@@ -358,7 +358,7 @@
                 "last_commit": "2026-08-21T20:45:34Z",
                 "owner": "robocasa",
                 "repo": "robocasa",
-                "stars": 1677
+                "stars": 1679
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2022-07-28T12:18:24Z",
                 "owner": "PSVL",
                 "repo": "DoorGym",
-                "stars": 122
+                "stars": 123
               }
             },
             {
@@ -485,7 +485,7 @@
                 "last_commit": "2026-08-04T16:38:18Z",
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3264
+                "stars": 3266
               }
             },
             {
@@ -619,7 +619,7 @@
                 "last_commit": "2026-08-26T16:28:42Z",
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 29809
+                "stars": 29814
               }
             },
             {
@@ -631,10 +631,10 @@
                 "archived": false,
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-26T03:51:51Z",
+                "last_commit": "2026-08-27T05:18:07Z",
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 26947
+                "stars": 26972
               }
             },
             {
@@ -694,7 +694,7 @@
                 "last_commit": "2025-03-03T03:21:23Z",
                 "owner": "robot-colosseum",
                 "repo": "robot-colosseum",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -722,9 +722,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:31:36.929Z",
-    "original_repository": "RayYoh/Awesome-Robot-Learning",
-    "original_repository_id": 627284684,
+    "last_updated": "2026-08-27T11:25:40.480Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 627284684,
+      "language": null,
+      "last_commit": "2026-08-20T01:58:59Z",
+      "owner": "RayYoh",
+      "repo": "Awesome-Robot-Learning",
+      "stars": 208
+    },
     "original_repository_sha": "41eb274a2391a36eeeac7db32ea75b452c3d6908",
     "enhanced_repository": "enhansome/enhansome-Awesome-Robot-Learning",
     "enhanced_repository_description": null,
