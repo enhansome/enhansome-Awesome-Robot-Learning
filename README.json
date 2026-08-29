@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI",
+                "homepage": null,
                 "id": 811638645,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-10T02:53:35Z",
+                "open_issues": 2,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2156
+                "stars": 2156,
+                "topics": [
+                  "agent",
+                  "causality",
+                  "embodied-ai",
+                  "interaction",
+                  "manipulation",
+                  "navigation",
+                  "percpetion",
+                  "reasoning",
+                  "robotics",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -28,12 +44,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Survey of Embodied Learning for Object-Centric Robotic Manipulation",
+                "homepage": "https://arxiv.org/abs/2408.11537",
                 "id": 833995205,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-10-04T01:04:58Z",
+                "open_issues": 0,
                 "owner": "RayYoh",
                 "repo": "OCRM_survey",
-                "stars": 258
+                "stars": 258,
+                "topics": [
+                  "embodied-ai",
+                  "manipulation",
+                  "robot-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             }
@@ -55,12 +81,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome Robotics resources",
+            "homepage": null,
             "id": 46938122,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
+            "open_issues": 38,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6986
+            "stars": 6986,
+            "topics": [
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -71,12 +104,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome links and software libraries that are useful for robots.",
+            "homepage": null,
             "id": 91040492,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-10T07:45:21Z",
+            "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1480
+            "stars": 1480,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "datasets",
+              "deep-learning",
+              "image-segmentation",
+              "list",
+              "lists",
+              "machine-learning",
+              "optimization",
+              "optimization-algorithms",
+              "physics",
+              "planning-algorithms",
+              "point-cloud",
+              "reinforcement-learning",
+              "robot",
+              "robotics",
+              "ros",
+              "sensors",
+              "simulation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -87,12 +146,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.",
+            "homepage": null,
             "id": 217333025,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-11-20T07:13:29Z",
+            "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3885
+            "stars": 3885,
+            "topics": [
+              "aerospace",
+              "artificial-intelligence",
+              "automotive",
+              "autonomous-driving",
+              "awesome",
+              "awesome-list",
+              "cplusplus",
+              "cpp",
+              "lidar",
+              "machine-learning",
+              "mapping",
+              "point-cloud",
+              "python",
+              "robot",
+              "robotic",
+              "robotics",
+              "ros",
+              "ros2",
+              "self-driving-car",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -103,12 +188,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of robotics libraries and software",
+            "homepage": "http://jslee02.github.io/awesome-robotics-libraries/",
             "id": 56404753,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T20:20:58Z",
+            "open_issues": 17,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3027
+            "stars": 3027,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "machine-learning",
+              "motion-planning",
+              "multibody-dynamics",
+              "optimization",
+              "robotics",
+              "robotics-libraries",
+              "robotics-library",
+              "robotics-simulation",
+              "simulation",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -119,12 +222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement learning resources curated",
+            "homepage": "http://aikorea.org/awesome-rl",
             "id": 40465212,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-25T22:25:44Z",
+            "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 9924
+            "stars": 9924,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -135,12 +243,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome robot descriptions (URDF, MJCF)",
+            "homepage": null,
             "id": 478093237,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-04T09:53:46Z",
+            "open_issues": 3,
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1643
+            "stars": 1644,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "biped",
+              "humanoid",
+              "legged-robots",
+              "mjcf",
+              "quadruped",
+              "robot",
+              "robotics",
+              "urdf",
+              "urdf-descriptions",
+              "urdf-models"
+            ]
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -151,12 +277,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources",
+            "homepage": null,
             "id": 393542631,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-26T09:28:29Z",
+            "open_issues": 3,
             "owner": "robotlearning123",
             "repo": "awesome-isaac-gym",
-            "stars": 794
+            "stars": 795,
+            "topics": [
+              "isaac-gym",
+              "openai-gym",
+              "reinforcement-learning",
+              "robot-learning",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -167,12 +304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 224122584,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-27T23:01:07Z",
+            "open_issues": 6,
             "owner": "clvrai",
             "repo": "awesome-rl-envs",
-            "stars": 1358
+            "stars": 1357,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -183,12 +325,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of 3D Vision papers relating to Robotics domain in the era of large models i.e. LLMs/VLMs, inspired by awesome-computer-vision, including papers, codes, and related websites",
+            "homepage": null,
             "id": 841572588,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-17T07:19:01Z",
+            "open_issues": 5,
             "owner": "zubair-irshad",
             "repo": "Awesome-Robotics-3D",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "3d",
+              "benchmarks",
+              "computer-vision",
+              "diffusion-models",
+              "foundation-models",
+              "gaussian-splatting",
+              "grasping",
+              "llm",
+              "manipulation",
+              "navigation",
+              "nerf",
+              "pointclouds",
+              "policy-learning",
+              "pretraining",
+              "robotics",
+              "scene-graph",
+              "simulations",
+              "vision-language-model",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         },
@@ -199,12 +366,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository compiles a list of papers related to the application of video technology in the field of robotics! Star⭐ the repo and follow me if you like what you see🤩.",
+            "homepage": null,
             "id": 816639481,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-30T04:26:05Z",
+            "open_issues": 0,
             "owner": "H-Freax",
             "repo": "Awesome-Video-Robotic-Papers",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "artificial-intelligence",
+              "awesome-list",
+              "list",
+              "manipulation",
+              "paper",
+              "robot",
+              "robot-arm",
+              "robot-arm-control",
+              "robot-learning",
+              "robotics",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
         }
@@ -223,12 +407,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+                "homepage": "https://isaac-sim.github.io/IsaacLab",
                 "id": 567038244,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:44:52Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T03:39:56Z",
+                "open_issues": 510,
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 7988
+                "stars": 7988,
+                "topics": [
+                  "isaac-sim",
+                  "omniverse-kit-extension",
+                  "robot-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -239,12 +433,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
+                "homepage": "https://behavior.stanford.edu",
                 "id": 439439857,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-28T18:33:12Z",
+                "open_issues": 308,
                 "owner": "StanfordVL",
                 "repo": "BEHAVIOR-1K",
-                "stars": 1668
+                "stars": 1668,
+                "topics": [
+                  "benchmark",
+                  "embodied-ai",
+                  "robotics",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -255,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 423362956,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:03:04Z",
+                "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1153
+                "stars": 1153,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -271,12 +480,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unitree Go2, Unitree G1 support for Nvidia Isaac Lab (Isaac Gym / Isaac Sim)",
+                "homepage": null,
                 "id": 785809206,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-07-01T14:18:03Z",
+                "open_issues": 17,
                 "owner": "abizovnuralem",
                 "repo": "go2_omniverse",
-                "stars": 1066
+                "stars": 1066,
+                "topics": [
+                  "digitaltwins",
+                  "g1",
+                  "go2",
+                  "isaac-gym",
+                  "isaac-lab",
+                  "isaac-sim",
+                  "isaaclab",
+                  "nvidia",
+                  "omniverse",
+                  "orbit",
+                  "robot-learning",
+                  "robotics",
+                  "unitree-g1",
+                  "unitree-go2"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -287,12 +516,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reinforcement Learning Environments for Omniverse Isaac Gym",
+                "homepage": null,
                 "id": 498600058,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-06T20:11:32Z",
+                "open_issues": 122,
                 "owner": "isaac-sim",
                 "repo": "OmniIsaacGymEnvs",
-                "stars": 1049
+                "stars": 1049,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -303,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] ARNOLD: Language-Grounded Robot Manipulation with Continuous Object States in Realistic 3D Scenes",
+                "homepage": "https://arnold-benchmark.github.io",
                 "id": 625764542,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-03-16T18:21:08Z",
+                "open_issues": 8,
                 "owner": "arnold-benchmark",
                 "repo": "arnold",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -319,12 +558,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Reinforcement Learning Framework for Manipulator based on NVIDIA's Isaac-gym, Additional add SAC2019 and Reinforcement Learning from Demonstration Algorithm.",
+                "homepage": null,
                 "id": 414135548,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-14T03:05:22Z",
+                "open_issues": 4,
                 "owner": "cypypccpy",
                 "repo": "Isaac-ManipulaRL",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "deep-reinforcement-learning",
+                  "demonstration",
+                  "imitation-learning",
+                  "isaac-gym",
+                  "manipulator",
+                  "reinforcement-learning",
+                  "soft-actor-critic"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             }
@@ -342,12 +594,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.",
+                "homepage": null,
                 "id": 115744122,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T14:19:29Z",
+                "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
-                "stars": 4674
+                "stars": 4674,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "machine-learning",
+                  "mujoco",
+                  "neural-networks",
+                  "physics-simulation",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -358,12 +623,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+                "homepage": null,
                 "id": 532854029,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T19:35:18Z",
+                "open_issues": 52,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3886
+                "stars": 3886,
+                "topics": [
+                  "mujoco",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -374,12 +647,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
+                "homepage": "https://robocasa.ai",
                 "id": 799171422,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T20:45:34Z",
+                "open_issues": 56,
                 "owner": "robocasa",
                 "repo": "robocasa",
-                "stars": 1685
+                "stars": 1685,
+                "topics": [
+                  "humanoid-robot",
+                  "physics-simulation",
+                  "robot-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -390,12 +673,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of robotics simulation environments for reinforcement learning",
+                "homepage": "https://robotics.farama.org/",
                 "id": 421134917,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-02T17:38:14Z",
+                "open_issues": 11,
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium-Robotics",
-                "stars": 962
+                "stars": 962,
+                "topics": [
+                  "d4rl",
+                  "gymnasium",
+                  "mujoco",
+                  "reinforcement-learning",
+                  "robotics",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -406,12 +701,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unified framework for robot learning",
+                "homepage": "https://sites.google.com/view/robohive",
                 "id": 140010231,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:22:52Z",
+                "open_issues": 26,
                 "owner": "vikashplus",
                 "repo": "robohive",
-                "stars": 631
+                "stars": 631,
+                "topics": [
+                  "benchmarks",
+                  "environments",
+                  "imitation-learning",
+                  "mujoco",
+                  "mujoco-environments",
+                  "python",
+                  "reinforcement-learning",
+                  "robot-framework",
+                  "robot-learning",
+                  "robotics",
+                  "simulation",
+                  "tasks"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -422,12 +735,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Libraries, tools and tasks created and used at DeepMind Robotics.",
+                "homepage": null,
                 "id": 371717994,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-20T14:29:49Z",
+                "open_issues": 0,
                 "owner": "google-deepmind",
                 "repo": "dm_robotics",
-                "stars": 413
+                "stars": 413,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -438,12 +756,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source domain randomized door opening training environment",
+                "homepage": null,
                 "id": 200697569,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-07-28T12:18:24Z",
+                "open_issues": 4,
                 "owner": "PSVL",
                 "repo": "DoorGym",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -454,12 +777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Divide-and-Conquer Reinforcement Learning\"",
+                "homepage": null,
                 "id": 135075532,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-08T02:43:13Z",
+                "open_issues": 1,
                 "owner": "dibyaghosh",
                 "repo": "dnc",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -470,12 +798,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-stack robot learning for the SO-101 arm: teleoperation, imitation learning, and RL in MuJoCo.",
+                "homepage": "https://so101-nexus.com/docs",
                 "id": 1162960852,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:46:20Z",
+                "open_issues": 2,
                 "owner": "johnsutor",
                 "repo": "so101-nexus",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "behavioral-cloning",
+                  "lerobot",
+                  "mujoco",
+                  "reinforcement-learning",
+                  "so-101"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -486,12 +825,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Official release of the DMControl Generalization Benchmark 2 (DMC-GB2) ",
+                "homepage": "https://aalmuzairee.github.io/SADA",
                 "id": 806835327,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-21T03:04:28Z",
+                "open_issues": 2,
                 "owner": "aalmuzairee",
                 "repo": "dmcgb2",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "data-augumentation",
+                  "robotics",
+                  "visual-reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             }
@@ -509,12 +857,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
+                "homepage": "https://maniskill.ai/",
                 "id": 520357130,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T16:38:18Z",
+                "open_issues": 134,
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3268
+                "stars": 3269,
+                "topics": [
+                  "embodied-ai",
+                  "reinforcement-learning",
+                  "robot-learning",
+                  "robot-manipulation",
+                  "robotics",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -525,12 +885,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evaluating and reproducing real-world robot manipulation policies (e.g., RT-1, RT-1-X, Octo) in simulation under common setups (e.g., Google Robot, WidowX+Bridge) (CoRL 2024)",
+                "homepage": "https://simpler-env.github.io/",
                 "id": 776527409,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-12-20T13:08:29Z",
+                "open_issues": 33,
                 "owner": "simpler-env",
                 "repo": "SimplerEnv",
-                "stars": 1150
+                "stars": 1150,
+                "topics": [
+                  "computer-vision",
+                  "embodied-ai",
+                  "real2sim",
+                  "reinforcement-learning",
+                  "robot-learning",
+                  "robot-manipulation",
+                  "robotics",
+                  "robotics-benchmark",
+                  "robotics-simulation"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -541,12 +916,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmark for adaptation to hidden robot action-interface contracts: 4 ManiSkill tasks, preregistered gates, belief/probe/learned methods, delay-aware control. Same policy, different wiring — can it adapt?",
+                "homepage": null,
                 "id": 1308390948,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-25T01:10:07Z",
+                "open_issues": 0,
                 "owner": "Archerkattri",
                 "repo": "actionshift",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "action-space",
+                  "adaptation",
+                  "benchmark",
+                  "manipulation",
+                  "maniskill",
+                  "reinforcement-learning",
+                  "robot-learning",
+                  "robotics",
+                  "sim-to-real"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             }
@@ -564,12 +954,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform.",
+                "homepage": "https://pybullet.org/",
                 "id": 116383460,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-16T08:35:41Z",
+                "open_issues": 33,
                 "owner": "benelot",
                 "repo": "pybullet-gym",
-                "stars": 882
+                "stars": 882,
+                "topics": [
+                  "openai-gym",
+                  "pybullet",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -580,12 +979,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of robotic environments based on PyBullet physics engine and gymnasium.",
+                "homepage": null,
                 "id": 295209844,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-23T07:27:41Z",
+                "open_issues": 10,
                 "owner": "qgallouedec",
                 "repo": "panda-gym",
-                "stars": 764
+                "stars": 764,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "franka-emika",
+                  "machine-learning",
+                  "python",
+                  "reinforcement-learning",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -596,12 +1008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for vision-guided quadrupedal locomotion research",
+                "homepage": null,
                 "id": 485573066,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-27T08:46:42Z",
+                "open_issues": 8,
                 "owner": "Mehooz",
                 "repo": "vision4leg",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -612,12 +1029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pybullet version of the multigoal robotics environment from OpenAI Gym ",
+                "homepage": null,
                 "id": 315520859,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-18T13:13:58Z",
+                "open_issues": 1,
                 "owner": "IanYangChina",
                 "repo": "pybullet_multigoal_gym",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -628,12 +1050,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MiniTouch is a ServiceNow Research project that was started at Element AI.",
+                "homepage": null,
                 "id": 342700426,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-05T19:28:33Z",
+                "open_issues": 4,
                 "owner": "ServiceNow",
                 "repo": "MiniTouch",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             }
@@ -651,12 +1078,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulation platform for general-purpose robotics & embodied AI learning.",
+                "homepage": "https://genesis-world.readthedocs.io",
                 "id": 712225112,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:27:33Z",
+                "open_issues": 129,
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 29822
+                "stars": 29823,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -667,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+                "homepage": "https://huggingface.co/docs/lerobot",
                 "id": 748713144,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:16:50Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:38:02Z",
+                "open_issues": 833,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27025
+                "stars": 27026,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -683,12 +1120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 774058576,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-18T04:32:50Z",
+                "open_issues": 26,
                 "owner": "carlosferrazza",
                 "repo": "humanoid-bench",
-                "stars": 786
+                "stars": 786,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -699,12 +1141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SoftGym is a set of benchmark environments for deformable object manipulation.",
+                "homepage": null,
                 "id": 213077829,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-11-14T16:33:06Z",
+                "open_issues": 16,
                 "owner": "Xingyu-Lin",
                 "repo": "softgym",
-                "stars": 354
+                "stars": 354,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -715,12 +1162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Task Suite Implementation of ICML'23 Paper \"VIMA: General Robot Manipulation with Multimodal Prompts\"",
+                "homepage": null,
                 "id": 547082219,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-26T05:35:36Z",
+                "open_issues": 8,
                 "owner": "vimalabs",
                 "repo": "VIMABench",
-                "stars": 327
+                "stars": 327,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -731,12 +1183,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Benchmark for Evaluating Generalization for Robotic Manipulation",
+                "homepage": "https://robot-colosseum.github.io",
                 "id": 758634813,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-03T03:21:23Z",
+                "open_issues": 5,
                 "owner": "robot-colosseum",
                 "repo": "robot-colosseum",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "benchmarking",
+                  "robotics",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             },
@@ -747,12 +1208,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The project involves building a scenario consisting of a Thrower and a Goalie robot arms. The thrower moves to the desired position and throws the ball while the task of the goalie is to intercept and block the incoming ball from making a goal.",
+                "homepage": null,
                 "id": 321743708,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-15T21:15:57Z",
+                "open_issues": 0,
                 "owner": "muddasser-mm",
                 "repo": "Thrower_Goalie_RobotArms",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "perception",
+                  "robotics",
+                  "trajectory-planning",
+                  "trajectory-prediction"
+                ]
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
             }
@@ -766,15 +1237,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:28:27.857Z",
+    "last_updated": "2026-08-29T04:50:14.395Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This repo contains a curative list of robot learning (mainly for manipulation) resources.",
+      "homepage": null,
       "id": 627284684,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-20T01:58:59Z",
+      "open_issues": 1,
       "owner": "RayYoh",
       "repo": "Awesome-Robot-Learning",
-      "stars": 208
+      "stars": 208,
+      "topics": [
+        "artificial-intelligence",
+        "awesome-list",
+        "list",
+        "reinforcement-learning",
+        "reinforcement-learning-environments",
+        "robot",
+        "robot-learning",
+        "robotics"
+      ]
     },
     "original_repository_sha": "41eb274a2391a36eeeac7db32ea75b452c3d6908",
     "enhanced_repository": "enhansome/enhansome-Awesome-Robot-Learning",
