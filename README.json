@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "HCPLab-SYSU",
                 "repo": "Embodied_AI_Paper_List",
-                "stars": 2164,
+                "stars": 2165,
                 "topics": [
                   "agent",
                   "causality",
@@ -90,7 +90,7 @@
             "open_issues": 40,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7027,
+            "stars": 7031,
             "topics": [
               "robotics"
             ]
@@ -252,7 +252,7 @@
             "open_issues": 3,
             "owner": "robot-descriptions",
             "repo": "awesome-robot-descriptions",
-            "stars": 1653,
+            "stars": 1654,
             "topics": [
               "awesome",
               "awesome-list",
@@ -282,11 +282,11 @@
             "id": 393542631,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-02T13:01:35Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-09T13:12:47Z",
+            "open_issues": 3,
             "owner": "robotlearning123",
             "repo": "awesome-isaac-gym",
-            "stars": 797,
+            "stars": 799,
             "topics": [
               "isaac-gym",
               "openai-gym",
@@ -412,11 +412,11 @@
                 "id": 567038244,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-08T20:03:41Z",
-                "open_issues": 516,
+                "last_commit": "2026-09-09T22:00:35Z",
+                "open_issues": 511,
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 8079,
+                "stars": 8085,
                 "topics": [
                   "isaac-sim",
                   "omniverse-kit-extension",
@@ -468,7 +468,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1178,
+                "stars": 1182,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -599,7 +599,7 @@
                 "id": 115744122,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T12:23:09Z",
+                "last_commit": "2026-09-09T18:02:42Z",
                 "open_issues": 128,
                 "owner": "google-deepmind",
                 "repo": "dm_control",
@@ -632,7 +632,7 @@
                 "open_issues": 42,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 3948,
+                "stars": 3954,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -656,7 +656,7 @@
                 "open_issues": 10,
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium-Robotics",
-                "stars": 1952,
+                "stars": 1953,
                 "topics": [
                   "d4rl",
                   "gymnasium",
@@ -681,10 +681,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T03:53:54Z",
-                "open_issues": 57,
+                "open_issues": 56,
                 "owner": "robocasa",
                 "repo": "robocasa",
-                "stars": 1714,
+                "stars": 1716,
                 "topics": [
                   "humanoid-robot",
                   "physics-simulation",
@@ -863,10 +863,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-04T16:38:18Z",
-                "open_issues": 135,
+                "open_issues": 134,
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3303,
+                "stars": 3307,
                 "topics": [
                   "embodied-ai",
                   "reinforcement-learning",
@@ -891,10 +891,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2025-12-20T13:08:29Z",
-                "open_issues": 35,
+                "open_issues": 34,
                 "owner": "simpler-env",
                 "repo": "SimplerEnv",
-                "stars": 1159,
+                "stars": 1160,
                 "topics": [
                   "computer-vision",
                   "embodied-ai",
@@ -988,7 +988,7 @@
                 "open_issues": 10,
                 "owner": "qgallouedec",
                 "repo": "panda-gym",
-                "stars": 765,
+                "stars": 766,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1017,7 +1017,7 @@
                 "open_issues": 8,
                 "owner": "Mehooz",
                 "repo": "vision4leg",
-                "stars": 321,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1083,11 +1083,11 @@
                 "id": 712225112,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T18:42:28Z",
-                "open_issues": 132,
+                "last_commit": "2026-09-09T17:41:51Z",
+                "open_issues": 128,
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 29909,
+                "stars": 29920,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1104,11 +1104,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T16:51:26Z",
-                "open_issues": 851,
+                "last_commit": "2026-09-09T16:07:45Z",
+                "open_issues": 849,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27331,
+                "stars": 27361,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1150,7 +1150,7 @@
                 "open_issues": 16,
                 "owner": "Xingyu-Lin",
                 "repo": "softgym",
-                "stars": 355,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:02:57.401Z",
+    "last_updated": "2026-09-09T22:00:44.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo contains a curative list of robot learning (mainly for manipulation) resources.",
