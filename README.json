@@ -77,7 +77,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotics (Kiloreux)",
-          "description": null,
+          "description": "kiloreux/awesome-robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -100,7 +100,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotics (ahundt)",
-          "description": null,
+          "description": "ahundt/awesome-robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -142,7 +142,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotic Tooling",
-          "description": null,
+          "description": "Ly0n/awesome-robotic-tooling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -184,7 +184,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robotics Libraries",
-          "description": null,
+          "description": "jslee02/awesome-robotics-libraries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -218,7 +218,7 @@
         {
           "node_type": "item",
           "title": "Awesome Reinforcement Learning",
-          "description": null,
+          "description": "aikorea/awesome-rl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "Awesome Robot Descriptions",
-          "description": null,
+          "description": "robot-descriptions/awesome-robot-descriptions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -273,7 +273,7 @@
         {
           "node_type": "item",
           "title": "Awesome NVIDIA Isaac Gym",
-          "description": null,
+          "description": "robotlearning123/awesome-isaac-gym",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -300,7 +300,7 @@
         {
           "node_type": "item",
           "title": "Awesome RL Envs",
-          "description": null,
+          "description": "clvrai/awesome-rl-envs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -321,7 +321,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Robotics-3D",
-          "description": null,
+          "description": "zubair-irshad/Awesome-Robotics-3D",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,7 +362,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Video-Robotic-Papers",
-          "description": null,
+          "description": "H-Freax/Awesome-Video-Robotic-Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -412,8 +412,8 @@
                 "id": 567038244,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T23:01:27Z",
-                "open_issues": 380,
+                "last_commit": "2026-10-03T03:34:54Z",
+                "open_issues": 360,
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
                 "stars": 8269,
@@ -455,7 +455,7 @@
             {
               "node_type": "item",
               "title": "unitree_mujoco",
-              "description": null,
+              "description": "unitreerobotics/unitree_mujoco",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -476,7 +476,7 @@
             {
               "node_type": "item",
               "title": "Unitree Go2 Omniverse",
-              "description": null,
+              "description": "abizovnuralem/go2_omniverse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,7 +512,7 @@
             {
               "node_type": "item",
               "title": "Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim",
-              "description": null,
+              "description": "isaac-sim/OmniIsaacGymEnvs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -554,7 +554,7 @@
             {
               "node_type": "item",
               "title": "Isaac-ManipulaRL",
-              "description": null,
+              "description": "cypypccpy/Isaac-ManipulaRL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -590,7 +590,7 @@
             {
               "node_type": "item",
               "title": "dm_control: DeepMind Infrastructure for Physics-Based Simulation",
-              "description": null,
+              "description": "google-deepmind/dm_control",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -619,7 +619,7 @@
             {
               "node_type": "item",
               "title": "mujoco_menagerie: High-quality models for MuJoCo",
-              "description": null,
+              "description": "google-deepmind/mujoco_menagerie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -643,7 +643,7 @@
             {
               "node_type": "item",
               "title": "Gymnasium-Robotics",
-              "description": null,
+              "description": "Farama-Foundation/Gymnasium-Robotics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -697,7 +697,7 @@
             {
               "node_type": "item",
               "title": "RoboHive",
-              "description": null,
+              "description": "vikashplus/robohive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -731,7 +731,7 @@
             {
               "node_type": "item",
               "title": "dm_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind",
-              "description": null,
+              "description": "google-deepmind/dm_robotics",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -752,7 +752,7 @@
             {
               "node_type": "item",
               "title": "DoorGym",
-              "description": null,
+              "description": "PSVL/DoorGym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -821,7 +821,7 @@
             {
               "node_type": "item",
               "title": "DMControl Generalization Benchmark 2",
-              "description": null,
+              "description": "aalmuzairee/dmcgb2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -853,7 +853,7 @@
             {
               "node_type": "item",
               "title": "ManiSkill3",
-              "description": null,
+              "description": "mani-skill/ManiSkill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -950,7 +950,7 @@
             {
               "node_type": "item",
               "title": "PyBullet Gymperium",
-              "description": null,
+              "description": "benelot/pybullet-gym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -975,7 +975,7 @@
             {
               "node_type": "item",
               "title": "panda-gym: Set of robotic environments based on PyBullet physics engine and gymnasium",
-              "description": null,
+              "description": "qgallouedec/panda-gym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1004,7 +1004,7 @@
             {
               "node_type": "item",
               "title": "Toolkit for Vision-Guided Quadrupedal Locomotion Research",
-              "description": null,
+              "description": "Mehooz/vision4leg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1025,7 +1025,7 @@
             {
               "node_type": "item",
               "title": "Pybullet-implementation of the multi-goal robotics environment originally from Open AI Gym",
-              "description": null,
+              "description": "IanYangChina/pybullet_multigoal_gym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1087,7 +1087,7 @@
                 "open_issues": 142,
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 30012,
+                "stars": 30015,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1104,11 +1104,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T19:05:43Z",
+                "last_commit": "2026-10-03T03:50:16Z",
                 "open_issues": 976,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27912,
+                "stars": 27914,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1116,7 +1116,7 @@
             {
               "node_type": "item",
               "title": "HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation",
-              "description": null,
+              "description": "carlosferrazza/humanoid-bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1137,7 +1137,7 @@
             {
               "node_type": "item",
               "title": "SoftGym",
-              "description": null,
+              "description": "Xingyu-Lin/softgym",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1158,7 +1158,7 @@
             {
               "node_type": "item",
               "title": "VIMA-Bench: Benchmark for Multimodal Robot Learning",
-              "description": null,
+              "description": "vimalabs/VIMABench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1204,7 +1204,7 @@
             {
               "node_type": "item",
               "title": "Thrower and Goalie Robot Arms",
-              "description": null,
+              "description": "muddasser-mm/Thrower_Goalie_RobotArms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:18:21.599Z",
+    "last_updated": "2026-10-03T04:28:17.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo contains a curative list of robot learning (mainly for manipulation) resources.",
