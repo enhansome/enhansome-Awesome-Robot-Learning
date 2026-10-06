@@ -155,7 +155,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3898,
+            "stars": 3899,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -231,7 +231,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 10006,
+            "stars": 10007,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
@@ -412,11 +412,11 @@
                 "id": 567038244,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T09:11:58Z",
-                "open_issues": 364,
+                "last_commit": "2026-10-06T22:39:32Z",
+                "open_issues": 378,
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 8285,
+                "stars": 8289,
                 "topics": [
                   "isaac-sim",
                   "omniverse-kit-extension",
@@ -442,7 +442,7 @@
                 "open_issues": 310,
                 "owner": "StanfordVL",
                 "repo": "BEHAVIOR-1K",
-                "stars": 1738,
+                "stars": 1737,
                 "topics": [
                   "benchmark",
                   "embodied-ai",
@@ -468,7 +468,7 @@
                 "open_issues": 65,
                 "owner": "unitreerobotics",
                 "repo": "unitree_mujoco",
-                "stars": 1230,
+                "stars": 1231,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -632,7 +632,7 @@
                 "open_issues": 49,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4153,
+                "stars": 4154,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -653,10 +653,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T00:29:34Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium-Robotics",
-                "stars": 1956,
+                "stars": 1957,
                 "topics": [
                   "d4rl",
                   "gymnasium",
@@ -866,7 +866,7 @@
                 "open_issues": 141,
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3379,
+                "stars": 3381,
                 "topics": [
                   "embodied-ai",
                   "reinforcement-learning",
@@ -891,7 +891,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-30T13:55:27Z",
-                "open_issues": 34,
+                "open_issues": 33,
                 "owner": "simpler-env",
                 "repo": "SimplerEnv",
                 "stars": 1174,
@@ -1083,11 +1083,11 @@
                 "id": 712225112,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T23:13:48Z",
-                "open_issues": 145,
+                "last_commit": "2026-10-06T14:00:02Z",
+                "open_issues": 146,
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 30024,
+                "stars": 30022,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1104,11 +1104,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:23:09Z",
-                "open_issues": 988,
+                "last_commit": "2026-10-06T22:43:49Z",
+                "open_issues": 987,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27963,
+                "stars": 27969,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1237,7 +1237,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:39:08.215Z",
+    "last_updated": "2026-10-06T23:21:35.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo contains a curative list of robot learning (mainly for manipulation) resources.",
