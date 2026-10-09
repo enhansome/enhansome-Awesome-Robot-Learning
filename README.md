@@ -52,7 +52,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 | Paper                                                                                                                        |    Venue   |                                            Code/Project                                            |
 | ---------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------: |
-| [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/pdf/2407.06886)          | arXiv 2024 |   [Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) ⭐ 2,181 \| 🐛 4 \| 📅 2026-06-10   |
+| [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/pdf/2407.06886)          | arXiv 2024 |   [Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) ⭐ 2,182 \| 🐛 4 \| 📅 2026-06-10   |
 | [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/pdf/2405.14093)                                | arXiv 2024 |                                                  -                                                 |
 | [Robot learning in the era of foundation models: A survey](https://arxiv.org/abs/2311.14379)                                 | arXiv 2023 |                                                  -                                                 |
 | [What Foundation Models can Bring for Robot Learning in Manipulation : A Survey](https://arxiv.org/pdf/2404.18201)           | arXiv 2024 |                                                  -                                                 |
@@ -67,9 +67,9 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 |                                                                Col.1                                                               |                                                    Col.2                                                   |                                                              Col.3                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
-|            [Awesome Robotics (Kiloreux)](https://github.com/kiloreux/awesome-robotics) ⭐ 7,224 \| 🐛 43 \| 📅 2024-09-22           |  [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics) ⭐ 1,505 \| 🐛 8 \| 📅 2024-01-10  |       [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,899 \| 🐛 13 \| 📅 2023-11-20       |
-| [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,077 \| 🐛 30 \| 🌐 Python \| 📅 2026-09-18 | [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) ⭐ 10,010 \| 🐛 7 \| 📅 2023-05-25 | [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,671 \| 🐛 3 \| 📅 2026-10-02 |
-|     [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym) ⭐ 798 \| 🐛 4 \| 🌐 Python \| 📅 2026-10-07     |        [Awesome RL Envs](https://github.com/clvrai/awesome-rl-envs) ⭐ 1,362 \| 🐛 5 \| 📅 2024-05-27       |            [Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) ⭐ 825 \| 🐛 5 \| 📅 2025-12-17           |
+|            [Awesome Robotics (Kiloreux)](https://github.com/kiloreux/awesome-robotics) ⭐ 7,227 \| 🐛 44 \| 📅 2024-09-22           |  [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics) ⭐ 1,508 \| 🐛 8 \| 📅 2024-01-10  |       [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,900 \| 🐛 13 \| 📅 2023-11-20       |
+| [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,077 \| 🐛 30 \| 🌐 Python \| 📅 2026-09-18 | [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) ⭐ 10,010 \| 🐛 7 \| 📅 2023-05-25 | [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,674 \| 🐛 3 \| 📅 2026-10-02 |
+|     [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym) ⭐ 800 \| 🐛 4 \| 🌐 Python \| 📅 2026-10-09     |        [Awesome RL Envs](https://github.com/clvrai/awesome-rl-envs) ⭐ 1,362 \| 🐛 5 \| 📅 2024-05-27       |            [Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) ⭐ 825 \| 🐛 5 \| 📅 2025-12-17           |
 |       [Awesome-Video-Robotic-Papers](https://github.com/H-Freax/Awesome-Video-Robotic-Papers) ⭐ 193 \| 🐛 0 \| 📅 2025-01-30       |                                                                                                            |                                                                                                                                 |
 
 ***
@@ -114,8 +114,8 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 ### Issac-based
 
-* [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit) ⭐ 8,299 | 🐛 365 | 🌐 Python | 📅 2026-10-08 Based on Issac Sim.
-* [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,739 | 🐛 310 | 🌐 Python | 📅 2026-10-08 a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse platform.
+* [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit) ⭐ 8,307 | 🐛 375 | 🌐 Python | 📅 2026-10-09 Based on Issac Sim.
+* [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,742 | 🐛 311 | 🌐 Python | 📅 2026-10-09 a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse platform.
 * [unitree\_mujoco](https://github.com/unitreerobotics/unitree_mujoco) ⭐ 1,232 | 🐛 65 | 🌐 C++ | 📅 2026-09-07
 * [Unitree Go2 Omniverse](https://github.com/abizovnuralem/go2_omniverse) ⭐ 1,082 | 🐛 17 | 🌐 Python | 📅 2026-07-01
 * [Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs) ⚠️ Archived
@@ -124,10 +124,10 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 ### MuJoCo-based
 
-* [dm\_control: DeepMind Infrastructure for Physics-Based Simulation](https://github.com/deepmind/dm_control) ⭐ 4,706 | 🐛 140 | 🌐 Python | 📅 2026-10-05
-* [mujoco\_menagerie: High-quality models for MuJoCo](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,160 | 🐛 48 | 🌐 Python | 📅 2026-10-07
-* [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) ⭐ 1,958 | 🐛 17 | 🌐 Python | 📅 2026-10-05
-* [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://github.com/robocasa/robocasa) ⭐ 1,786 | 🐛 64 | 🌐 Python | 📅 2026-09-25 Based on robosuite.
+* [dm\_control: DeepMind Infrastructure for Physics-Based Simulation](https://github.com/deepmind/dm_control) ⭐ 4,708 | 🐛 140 | 🌐 Python | 📅 2026-10-05
+* [mujoco\_menagerie: High-quality models for MuJoCo](https://github.com/google-deepmind/mujoco_menagerie) ⭐ 4,164 | 🐛 49 | 🌐 Python | 📅 2026-10-07
+* [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) ⭐ 1,958 | 🐛 19 | 🌐 Python | 📅 2026-10-09
+* [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://github.com/robocasa/robocasa) ⭐ 1,791 | 🐛 64 | 🌐 Python | 📅 2026-09-25 Based on robosuite.
 * [RoboHive](https://github.com/vikashplus/robohive) ⭐ 632 | 🐛 25 | 🌐 Python | 📅 2026-09-22
 * [dm\_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind](https://github.com/deepmind/dm_robotics) ⚠️ Archived
 * [DoorGym](https://github.com/PSVL/DoorGym) ⭐ 123 | 🐛 4 | 🌐 Python | 📅 2022-07-28
@@ -148,7 +148,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 ### PyBullet-based
 
 * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym) ⭐ 884 | 🐛 33 | 🌐 Python | 📅 2021-10-16
-* [panda-gym: Set of robotic environments based on PyBullet physics engine and gymnasium](https://github.com/qgallouedec/panda-gym) ⭐ 770 | 🐛 10 | 🌐 Python | 📅 2024-07-23
+* [panda-gym: Set of robotic environments based on PyBullet physics engine and gymnasium](https://github.com/qgallouedec/panda-gym) ⭐ 769 | 🐛 10 | 🌐 Python | 📅 2024-07-23
 * [Toolkit for Vision-Guided Quadrupedal Locomotion Research ](https://github.com/Mehooz/vision4leg) ⭐ 324 | 🐛 8 | 🌐 Python | 📅 2022-07-27
 * [Pybullet-implementation of the multi-goal robotics environment originally from Open AI Gym](https://github.com/IanYangChina/pybullet_multigoal_gym) ⭐ 95 | 🐛 1 | 🌐 Python | 📅 2023-08-18
 * [MiniTouch benchmark](https://github.com/ServiceNow/MiniTouch) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2023-07-05 It allows evaluation of models' performance on different manipulation tasks that can leverage cross-modal learning.
@@ -156,8 +156,8 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 ### Others
 
-* [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,037 | 🐛 151 | 🌐 Python | 📅 2026-10-08 A generative and simulated physical realm for general-purpose embodied-AI learning.
-* [LeRobot: State-of-the-art Machine Learning for real-world robotics](https://github.com/huggingface/lerobot) ⭐ 28,017 | 🐛 966 | 🌐 Python | 📅 2026-10-08 From HuggingFace.
+* [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,038 | 🐛 151 | 🌐 Python | 📅 2026-10-08 A generative and simulated physical realm for general-purpose embodied-AI learning.
+* [LeRobot: State-of-the-art Machine Learning for real-world robotics](https://github.com/huggingface/lerobot) ⭐ 28,038 | 🐛 971 | 🌐 Python | 📅 2026-10-09 From HuggingFace.
 * [HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation](https://github.com/carlosferrazza/humanoid-bench) ⭐ 798 | 🐛 26 | 🌐 Python | 📅 2025-09-18
 * [SoftGym](https://github.com/Xingyu-Lin/softgym) ⭐ 356 | 🐛 16 | 🌐 C++ | 📅 2022-11-14
 * [VIMA-Bench: Benchmark for Multimodal Robot Learning](https://github.com/vimalabs/VIMABench) ⭐ 328 | 🐛 8 | 🌐 Python | 📅 2023-09-26
@@ -180,4 +180,4 @@ This repository is released under the [MIT license](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
