@@ -87,10 +87,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7304,
+            "stars": 7310,
             "topics": [
               "robotics"
             ]
@@ -155,7 +155,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3922,
+            "stars": 3923,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -231,7 +231,7 @@
             "open_issues": 7,
             "owner": "aikorea",
             "repo": "awesome-rl",
-            "stars": 10042,
+            "stars": 10044,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:27.857Z"
@@ -307,7 +307,7 @@
             "open_issues": 6,
             "owner": "zubair-irshad",
             "repo": "Awesome-Robotics-3D",
-            "stars": 825,
+            "stars": 824,
             "topics": [
               "3d",
               "benchmarks",
@@ -385,11 +385,11 @@
                 "id": 567038244,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T23:36:04Z",
-                "open_issues": 422,
+                "last_commit": "2026-11-14T08:07:39Z",
+                "open_issues": 423,
                 "owner": "isaac-sim",
                 "repo": "IsaacLab",
-                "stars": 8643,
+                "stars": 8647,
                 "topics": [
                   "isaac-sim",
                   "omniverse-kit-extension",
@@ -602,10 +602,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-10T20:21:12Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "google-deepmind",
                 "repo": "mujoco_menagerie",
-                "stars": 4362,
+                "stars": 4369,
                 "topics": [
                   "mujoco",
                   "robotics"
@@ -626,10 +626,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-12T07:58:18Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "Farama-Foundation",
                 "repo": "Gymnasium-Robotics",
-                "stars": 1965,
+                "stars": 1966,
                 "topics": [
                   "d4rl",
                   "gymnasium",
@@ -657,7 +657,7 @@
                 "open_issues": 65,
                 "owner": "robocasa",
                 "repo": "robocasa",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "humanoid-robot",
                   "physics-simulation",
@@ -776,7 +776,7 @@
                 "id": 1162960852,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T02:46:58Z",
+                "last_commit": "2026-11-14T22:44:33Z",
                 "open_issues": 4,
                 "owner": "johnsutor",
                 "repo": "so101-nexus",
@@ -840,7 +840,7 @@
                 "open_issues": 170,
                 "owner": "mani-skill",
                 "repo": "ManiSkill",
-                "stars": 3510,
+                "stars": 3512,
                 "topics": [
                   "embodied-ai",
                   "reinforcement-learning",
@@ -868,7 +868,7 @@
                 "open_issues": 34,
                 "owner": "simpler-env",
                 "repo": "SimplerEnv",
-                "stars": 1181,
+                "stars": 1183,
                 "topics": [
                   "computer-vision",
                   "embodied-ai",
@@ -1061,7 +1061,7 @@
                 "open_issues": 157,
                 "owner": "Genesis-Embodied-AI",
                 "repo": "genesis-world",
-                "stars": 30223,
+                "stars": 30225,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1078,11 +1078,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T21:16:21Z",
-                "open_issues": 962,
+                "last_commit": "2026-11-14T11:35:42Z",
+                "open_issues": 969,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28866,
+                "stars": 28880,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:27.857Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:29:41.890Z",
+    "last_updated": "2026-11-14T23:26:16.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repo contains a curative list of robot learning (mainly for manipulation) resources.",
